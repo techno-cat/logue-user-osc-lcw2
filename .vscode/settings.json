@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "lcwwavetable.h": "c",
+        "lcwtanhtable.h": "c"
+    }
+}
